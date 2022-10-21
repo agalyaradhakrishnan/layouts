@@ -1,0 +1,714 @@
+/* step 1 header  start*/
+*{
+    margin: 0;padding: 0;
+}
+header{
+
+    background-color: black;
+    height: 60px;
+    width: 100%;
+    position: relative;
+}
+.topbar{position: absolute;
+    width:99%;
+    height: 50px;
+    background-color:aqua;
+    top: 4px;
+    left: 5px;
+}
+.image{
+    position: absolute;
+    background-color:brown;
+    width:40px;
+    height: 40px;
+    left: 5px;
+    top:5px;
+}
+.navbar{
+    position: absolute;right:10px;top: 3px;
+    height: 40px;
+    width:350px;
+    background-color: blue;   
+}
+.headerbox{
+    background-color:black;
+    position: relative;left: 0%;top: 3%;
+    width: 100%;
+    height: 500px;
+}
+.masterheader{background-color:blueviolet;
+width: 80%;left: 5%;top: 2%;
+height: 450px;
+position:absolute;
+}
+.backimge{background-color:gray;
+position: absolute;
+width: 60%;
+height: 370px;
+left:30px;
+top:10%;
+}
+.description{background-color: chartreuse;
+position: absolute;
+width: 80%;
+height: 300px;
+left:40px;
+top:10%;
+}
+.title{background-color:darkblue;
+position: absolute;
+width: 45%;
+height: 50px;
+left:10%;
+top:15%;
+}
+.para{background-color:darkblue;;
+position: absolute;
+width:45%;
+height: 50px;
+left:10%;
+top:35%;
+}
+.button{background-color:darkblue;;
+position: absolute;
+width:45%;
+height: 50px;
+left:10%;
+top:55%;
+}
+/* step 1 header  end*/
+
+/* step 2 about  start*/
+
+*{
+    margin: 0;padding: 0;
+}
+.about-box{background-color: aqua;
+    background-size: cover;
+    width: 100%;
+    height: 567px;
+    position: relative;
+}
+.about{background-color:black;
+    position: absolute;left: 3%;top: 5%;
+    width: 95%;
+    height: 500px;
+}
+.about-image{background-color:yellow;
+    position: absolute;left: 5%;top: 15%;
+    width: 50%;
+    height: 400px;
+
+}
+.about-title{background-color:darkblue;
+    position: absolute;left: 60%;top: 30%;
+    width: 35%;
+    height: 50px;
+
+}
+.about-para{background-color:darkblue;
+    position: absolute;left: 60%;top: 45%;
+    width: 35%;
+    height: 50px;
+
+}
+.about-button{background-color:darkblue;
+    position: absolute;left: 60%;top: 60%;
+    width: 35%;
+    height: 50px;
+
+}
+/* step 2 about end*/
+
+/* step 3  facility start*/
+*{
+    margin: 0;padding: 0;
+}
+.facility-box{background-color: yellow;
+    background-size: cover;
+    width: 100%;
+    height: 567px;
+    position: relative;
+}
+.faciltiy-menu{
+    background-color: blue;
+    position: absolute;left: 5%;top: 12%;
+    width: 90%;
+    height: 450px;
+}
+.facility-row1{
+    background-color: cornsilk;
+    position: absolute;left: 3%;top: 5%;
+    width: 95%;
+    height: 120px;
+}
+.facility-image{
+    background-color:maroon;
+    position: absolute;left: 30%;top: 5%;
+    width: 30%;
+    height: 50px;
+    border-radius: 30px;
+}
+.facility-head{
+    background-color:maroon;
+    position: absolute;left: 30%;top:50%;
+    width: 30%;
+    height: 50px;
+    border-radius: 30px;
+
+}
+.facility-col1{
+    background-color:peru;
+    position: absolute;left:2%;top:39%;
+    width: 20%;
+    height: 250px;
+    border-radius: 30px;
+
+}
+.facility-col2{
+    background-color:peru;
+    position: absolute;left:27%;top:39%;
+    width: 20%;
+    height: 250px;
+    border-radius: 30px;
+
+}
+.facility-col3{
+    background-color:peru;
+    position: absolute;left:52%;top:39%;
+    width: 20%;
+    height: 250px;
+    border-radius: 30px;
+
+}
+.facility-col4{
+    background-color:peru;
+    position: absolute;left:77%;top:39%;
+    width: 20%;
+    height: 250px;
+    border-radius: 30px;
+
+}
+.facility-img{background-color:darkgreen;
+    position: absolute;left:35%;top:10%;
+    width: 30%;
+    height: 70px;
+    border-radius: 10px;
+
+}
+.facility-h1{background-color:black;
+    position: absolute;left:25%;top:45%;
+    width: 50%;
+    height: 30px;
+    border-radius: 10px;
+
+}
+.facility-p{
+    background-color:rgb(20, 107, 165);
+    position: absolute;left:17%;top:60%;
+    width: 70%;
+    height: 50px;
+    border-radius: 10px;
+
+}
+/*step 3 facility end*/
+
+/*step 4 menu start*/
+
+*{
+    margin: 0;padding: 0;
+}
+.menu-box{background-color: aqua;
+    background-size: cover;
+    width: 100%;
+    height: 995px;
+    position: relative;
+}
+.menu-boxx{
+    background-color: blue;
+    position: absolute;left: 5%;top: 12%;
+    width: 90%;
+    height: 860px;
+}
+.menu-menu{
+    background-color: cornsilk;
+    position: absolute;left: 3%;top: 3%;
+    width: 95%;
+    height: 120px;
+}
+.menu-image{
+    background-color:maroon;
+    position: absolute;left: 30%;top: 5%;
+    width: 30%;
+    height: 50px;
+    border-radius: 30px;
+}
+.menu-para{
+    background-color:maroon;
+    position: absolute;left: 30%;top:50%;
+    width: 30%;
+    height: 50px;
+    border-radius: 30px;
+
+}
+.menu-row1{    background-color: gray;
+    position: absolute;left: 3%;top:19%;
+    width: 95%;
+    height: 380px;
+}
+.menu-col1{
+    background-color:peru;
+    position: absolute;left:15%;top:29%;
+    width: 20%;
+    height: 39%;
+    border-radius: 90%;   
+}
+.menu-col2{
+    background-color:peru;
+    position: absolute;left:40%;top:29%;
+    width: 20%;
+    height: 39%;
+    border-radius: 90%;
+
+}
+.menu-col3{
+    background-color:peru;
+    position: absolute;left:65%;top:29%;
+    width: 20%;
+    height: 39%;
+    border-radius: 90%;
+
+}
+.menu-des{background-color:black;
+    position: absolute;left:15%;top:103%;
+    width: 70%;
+    height: 40px;
+    border-radius: 10px;
+}
+.menu-row2{    background-color: gray;
+    position: absolute;left: 3%;top:57%;
+    width: 95%;
+    height: 360px;
+}
+.menu-col1{
+    background-color:peru;
+    position: absolute;left:15%;top:29%;
+    width: 20%;
+    height: 39%;
+    border-radius: 90%;
+   
+
+}
+.menu-col2{
+    background-color:peru;
+    position: absolute;left:40%;top:29%;
+    width: 20%;
+    height: 39%;
+    border-radius: 90%;
+
+}
+.menu-col3{
+    background-color:peru;
+    position: absolute;left:65%;top:29%;
+    width: 20%;
+    height: 39%;
+    border-radius: 90%;
+}
+.menu-des{background-color:black;
+    position: absolute;left:15%;top:103%;
+    width: 70%;
+    height: 40px;
+    border-radius: 10px;
+}
+/*step 4 menu end*/
+/*step 5 gallrey start*/
+
+*{
+    margin: 0;padding: 0;
+}
+.gallery-box{background-color: yellow;
+    background-size: cover;
+    width: 100%;
+    height: 850px;
+    position: relative;
+}
+.gallery-boxx{
+    background-color: blue;
+    position: absolute;left: 5%;top: 3%;
+    width: 90%;
+    height: 800px;
+}
+.gallery-gallery{
+    background-color: cornsilk;
+    position: relative;left: 3%;top: 5%;
+    width: 95%;
+    height: 120px;
+}
+.gallery-image{
+    background-color:maroon;
+    position: absolute;left: 30%;top: 5%;
+    width: 30%;
+    height: 50px;
+    border-radius: 30px;
+}
+.gallery-para{
+    background-color:maroon;
+    position: absolute;left: 30%;top:50%;
+    width: 30%;
+    height: 50px;
+    border-radius: 30px;
+
+}
+.gallery-row1{    background-color: gray;
+    position: absolute;left: 3%;top:23%;
+    width: 95%;
+    height: 320px;
+}
+.gallery-col1{
+    background-color:peru;
+    position: absolute;left:3%;top:29%;
+    width: 30%;
+    height: 228px;
+    border-radius: 10%;
+    
+}
+.gallery-col2{
+    background-color:peru;
+    position: absolute;left:35%;top:29%;
+    width: 30%;
+    height: 228px;
+    border-radius: 10%;
+   
+}
+.gallery-col3{
+    background-color:peru;
+    position: absolute;left:67%;top:29%;
+    width: 30%;
+    height: 228px;
+    border-radius: 10%;
+   
+
+}
+.gallery-row2{    background-color: gray;
+    position: absolute;left: 3%;top:63%;
+    width: 95%;
+    height: 280px;
+}
+.gallery-col4{background-color:peru;
+    position: absolute;left:3%;top:5%;
+    width: 30%;
+    height: 228px;
+    border-radius: 10%;
+   
+
+}
+.gallery-col5{
+    background-color:peru;
+    position: absolute;left:35%;top:5%;
+    width: 30%;
+    height: 228px;
+    border-radius: 10%;
+
+}
+.gallery-col6{
+    background-color:peru;
+    position: absolute;left:67%;top:5%;
+    width: 30%;
+    height:228px;
+    border-radius: 10%;
+}
+/*step 5 gallrey end*/
+/*step 6 team start*/
+
+*{
+    margin: 0;padding: 0;
+   }
+   .team-container{
+    background-color: aquamarine;
+    width:100%;
+    height:180vh; 
+    position: relative;
+}
+.team-box{
+    width: 90%;
+    height: 87%;
+    position: absolute;
+    left: 8%;top: 5%;
+    background-color:gray;
+}
+.team-row{
+    width:90%;
+    height:15%;
+    background-color:white;
+    position: absolute;
+    left: 5%;top:4%;
+}
+.team-row .team-img{
+    border-radius:20px;
+        width: 20%;
+        height: 25%;
+        position: absolute;
+        left: 40%;top:4%;
+        background-color:rgb(32, 228, 246);
+}
+.team-row .team-h1{
+        width: 30%;
+        height: 33%;
+        position: absolute;
+        left: 35%;top:45%;
+        background-color:maroon;
+        border-radius: 10px;
+
+}
+.team-row1{
+    width:90%;
+    height: 76%;
+    background-color:white;
+    position: absolute;
+    left: 5%;top:20%;
+}
+.team-col1{ 
+    width:30%;
+    height:38%;
+    background-color:peru;
+    position: absolute;
+    left:2%;top:2%;
+}
+.team-col2{
+    width:30%;
+    height:38%;
+    background-color:peru;
+    position: absolute;
+    left:35%;top:2%;
+}
+.team-col3{
+    width:30%;
+    height:38%;
+    background-color:peru;
+    position: absolute;
+    left:68%;top:2%;
+}
+.team-col4{
+    width:30%;
+    height:38%;
+    background-color:peru;
+    position: absolute;
+    left:2%;top:50%;
+}
+.team-col5{
+    width:30%;
+    height:38%;
+    background-color:peru;
+    position: absolute;
+    left:35%;top:50%;
+}
+.team-col6{
+    width:30%;
+    height:38%;
+    background-color:peru;
+    position: absolute;
+    left:68%;top:50%;
+}
+.team-hl{
+    width: 60%;
+    height:18%;
+    position: absolute;
+    left: 20%;top:105%;
+    background-color:black;
+    border-radius: 10px;
+
+}
+  /*step 6 team end*/
+    /*step 7 contact start*/
+
+  *{
+    margin: 0;padding: 0;
+   }
+   .contact-container{
+    background-color: yellow;
+    width:100%;
+    height: 160vh; 
+    position: relative;
+}
+
+.contact-con{
+    width: 95%;
+    height: 90%;
+    position: absolute;
+    left: 2%;top: 4%;
+    background-color:blue;
+}
+.contact-row{
+    width:90%;
+    height:13%;
+    background-color:black;
+    position: absolute;
+    left: 5%;top:4%;
+}
+.contact-row .contact-img{
+        width: 20%;
+        height: 35%;
+        position: absolute;
+        left: 40%;top:4%;
+        background-color:rgb(32, 228, 246);
+}
+.contact-row .contact-h1{
+        width: 30%;
+        height: 40%;
+        position: absolute;
+        left: 35%;top:45%;
+        background-color:rgb(25, 9, 127);
+
+}
+.contact-about{
+    width: 90%;
+    height: 70%;
+    position: absolute;
+    left: 5%;top: 20%;
+    background-color:black;
+}
+.contact-img{
+    width: 42%;
+    height: 68%;
+    position: absolute;
+    left: 8%;top:15%;
+    background-color:plum;
+    border-radius: 10px;
+
+}
+.contact-box{
+    width: 42%;
+    height: 68%;
+    position: absolute;
+    left: 51%;top:15%;
+    background-color:plum;
+    border-radius: 10px;
+
+}
+.contact-h2{
+    width: 50%;
+    height: 10%;
+    position: absolute;left: 24%;top: 3%;
+    background-color:darkred;
+    border-radius: 10px;
+
+}
+.contact-hl{
+    width: 80%;
+    height: 20%;
+    position: absolute;left: 10%;top: 18%;
+    background-color:darkgreen;
+}
+.contact-p{
+    width: 80%;
+    height: 20%;
+    position: absolute;left: 10%;top: 40%;
+    background-color:darkgreen;
+}
+.contact-bt{
+    width: 80%;
+    height: 20%;
+    position: absolute;left: 10%;top: 62%;
+    background-color:darkgreen;
+}
+.contact-but{
+    width: 50%;
+    height: 10%;
+    position: absolute;left: 24%;top: 84%;
+    background-color:darkred;
+    border-radius: 10px;
+
+}
+     /*step 7 contact end*/
+     /*step 8 footr start*/
+     *{
+        margin: 0;padding: 0;
+       }
+       .footer-container{
+        background-color: aqua;
+        width:100%;
+        height: 80vh; 
+        position: relative;
+    }
+    .footer-box{
+        width: 95%;
+        height: 90%;
+        position: absolute;
+        left: 4%;top: 5%;
+        background-color:blue;
+    }
+    .footer-row1{
+        width:90%;
+        height: 80%;
+        background-color:gray;
+        position: absolute;
+        left: 5%;top:7%;
+    }
+    .footer-col1{
+        width:20%;
+        height:50%;
+        background-color:peru;
+        position: absolute;
+        left:5%;top:5%;
+        border-radius: 10px;
+    }
+    .footer-col2{
+        width:20%;
+        height:50%;
+        background-color:peru;
+        position: absolute;
+        left:28%;top:5%;
+        border-radius: 10px;
+    
+    }
+    .footer-col3{
+        width:20%;
+        height:50%;
+        background-color:peru;
+        position: absolute;
+        left:51%;top:5%;
+        border-radius: 10px;
+    
+    }
+    .footer-col4{
+        width:20%;
+        height:50%;
+        background-color:peru;
+        position: absolute;
+        left:74%;top:5%;
+        border-radius: 10px;
+    
+    }
+    .footer-image{
+        background-color:darkgreen;
+        width:20%;
+        height:20%;
+        position: absolute;
+        left:38%;top:8%;
+        border-radius: 90px;
+    }
+    .footer-hl{
+        width:60%;
+        height:20%;
+        position: absolute;
+        left: 20%;top: 30%;
+        background-color: black;
+    }
+    .footer-p{
+        width: 80%;
+        height: 25%;
+        position: absolute;
+        left: 10%;top: 56%;
+        background-color:rgb(20, 107, 165);;
+    }
+    
+    .footer-boxx{
+        background-color: maroon;
+        height: 10%;
+        width: 50%;
+        position: absolute;
+        top: 70%;left: 25%;
+        border-radius: 20px;
+    }
+     /*step 8 footr end*/
+
